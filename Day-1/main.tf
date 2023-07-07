@@ -6,3 +6,4 @@ resource "aws_instance" "app_server" {
     Name = "Task to deploy first simple AWS resource"
   }
 }
+
